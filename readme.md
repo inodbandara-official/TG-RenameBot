@@ -1,6 +1,10 @@
+<div align="center">
+ 
 # Mesh Rename Bot
 
 This bot has a concept of filters which allows to auto-rename the files. This bot is aimed to be the best rename bot around. 
+
+![Details Card](https://github-readme-stats.vercel.app/api/pin/?username=yash-dk\&repo=Mesh-RenameBot\&show_owner=false&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 ## This is a beta release. Report the errors/features.
 Use of filters is easy just do what the bot says.
@@ -94,7 +98,7 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 - Run the bot using `python3 -m MeshRenameBot` or `python -m MeshRenameBot`
 
 # Credits
-[Me](https://github.com/yash-dk)
-
+[Yash Khadse](https://github.com/yash-dk) </br>
 [Dan for Pyrogram](https://github.com/pyrogram/pyrogram)
 
+</div>
